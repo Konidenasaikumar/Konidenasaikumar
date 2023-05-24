@@ -7,7 +7,7 @@
 I have a keen interest in Machine learning, data analysis with professional certification in data science. With a master's degree in Scientific Instrumentation, I have developed a strong foundation and intuitive understanding of machine learning and statistical analysis. Through my past experiences and several projects, I have acquired excellent communication skills and a deep comprehension of scientific thinking, which has contributed to my proficiency in strategic decision making.
 <br />
 <br />
-<h2 align="center">Skills</h2>
+## Skills
 <h2>Programming & Data Visualization:</h2>
 <ul>
   <li>Python (Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly, NLTK, SciPy, PyTorch)</li>
