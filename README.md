@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Kumar Konidena</h1>
 <h3 align="center">A passionate Data Science enthusiastic from India, currently living in Germany.</h3>
 
-<h3 align="center">📫 How to reach me **Saikumar.konidena@gmail.com**</h3>
+📫 How to reach me ***Saikumar.konidena@gmail.com***
 <h1 align="center">Skills</h1>
 <h2>Programming & Data Visualization:</h2>
 <ul>
