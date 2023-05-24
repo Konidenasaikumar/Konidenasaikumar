@@ -1,10 +1,14 @@
-<a href="#"><img width="50%" height="auto" src="https://assets.weforum.org/article/image/_NoEqqFtdV3gdZzIRkljVa-wlJFoAyz6fQ4nIMBwulE.jpg" height="175px"/></a>
+<div style="display: flex; justify-content: center;">
+  <a href="#"><img width="50%" height="auto" src="https://static.vecteezy.com/system/resources/previews/022/254/572/non_2x/robot-working-on-laptop-computer-artificial-intelligence-concept-3d-rendering-generative-ai-free-photo.jpg" height="175px"/></a>
+</div>
 <h1 align="center">Hi 👋, I'm Sai Kumar Konidena</h1>
 <h3 align="center">A passionate Data Science enthusiastic from India, currently living in Germany.</h3>
 ## Connect with me:
+- 📫 How to reach me **saikumar.konidena@gmail.com**
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/sai-kumar-konidena-engineer/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</p>
 
 ## Introduction
 
