@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Data Science enthusiastic from India, currently living in Germany.</h3>
 
 - 📫 How to reach me **Saikumar.konidena@gmail.com**
-- <a src="https://img.icons8.com/fluent/48/000000/linkedin.png"/><img href = "https://www.linkedin.com/in/sai-kumar-konidena-engineer/"> </a>
+- <a href = "https://www.linkedin.com/in/sai-teja-potu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 ## Introduction
 
