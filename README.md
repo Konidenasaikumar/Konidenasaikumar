@@ -1,9 +1,11 @@
-<div style="display: flex; justify-content: center;">
-  <a href="#"><img width="75%" height="auto" src="https://static.vecteezy.com/system/resources/previews/022/254/572/non_2x/robot-working-on-laptop-computer-artificial-intelligence-concept-3d-rendering-generative-ai-free-photo.jpg" height="175px"/></a>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <a href="#"><img width="50%" height="auto" src="https://static.vecteezy.com/system/resources/previews/022/254/572/non_2x/robot-working-on-laptop-computer-artificial-intelligence-concept-3d-rendering-generative-ai-free-photo.jpg" height="175px"/></a>
 </div>
+
 <h1 align="center">Hi 👋, I'm Sai Kumar Konidena</h1><p align="left">
 <h3 align="center">A passionate Data Science enthusiastic from India, currently living in Germany.</h3>
-📫 How to reach me **saikumar.konidena@gmail.com**
+
+<h3 📫 How to reach me **saikumar.konidena@gmail.com** </h3>
 
 ## Introduction
 
