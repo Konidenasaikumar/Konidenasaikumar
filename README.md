@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Kumar Konidena</h1>
 <h3 align="center">A passionate Data Science enthusiastic from India, currently living in Germany.</h3>
 
-- 📫 How to reach me **Saikumar.konidena@gmail.com**
+* 📫 How to reach me **Saikumar.konidena@gmail.com**
 
 <h3 align="left">Technical Skills:</h3>
 <h2>Programming & Data Visualization:</h2>
@@ -17,7 +17,7 @@
   <li>A/B Testing</li>
   <li>ANOVA</li>
   <li>Chi-square Testing</li>
-  <li>Statistical Modeling (Linear Regression, Polynomial Regression, Ridge and Lasso Regression, Logistic Regression, Time Series)</li>
+  <li>Statistical Modeling (Linear Regression, Polynomial Regression, Ridge and Lasso Regression, Logistic Regression)</li>
   <li>Machine Learning (KNN, Random Forest, XGBoost, Support Vector Machines, Naive Bayes, Principal Component Analysis, Clustering, Recommendation Systems)</li>
   <li>Deep Learning (Keras, TensorFlow, Neural Network-CNN, RNN, LSTM)</li>
   <li>Natural Language Processing</li>
