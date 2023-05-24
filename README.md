@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Science enthusiastic from India, currently living in Germany.</h3>
 
 * 📫 How to reach me **Saikumar.konidena@gmail.com**
-<h3 align="left">style="color: #336699;Technical Skills</h3>
+<h3 align="left", style="color: #336699>Technical Skills</h3>
 <h2>Programming & Data Visualization:</h2>
 <ul>
   <li>Python (Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly, NLTK, SciPy, PyTorch)</li>
