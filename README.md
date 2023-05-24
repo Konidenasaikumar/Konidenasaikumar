@@ -8,7 +8,7 @@
   <li>Python (Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly, NLTK, SciPy, PyTorch)</li>
   <li>Excel</li>
   <li>Tableau</li>
-  <li>Streamlit<li>
+  <li>Streamlit</li>
 </ul>
 
 <h2>Statistical Techniques & ML:</h2>
