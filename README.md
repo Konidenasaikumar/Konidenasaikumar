@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <a href="#" style="display: inline-block;">
-    <img width="50%" height="auto" src="https://static.vecteezy.com/system/resources/previews/022/254/572/non_2x/robot-working-on-laptop-computer-artificial-intelligence-concept-3d-rendering-generative-ai-free-photo.jpg" height="175px"/>
+    <img width="100%" height="auto" src="https://static.vecteezy.com/system/resources/previews/022/254/572/non_2x/robot-working-on-laptop-computer-artificial-intelligence-concept-3d-rendering-generative-ai-free-photo.jpg" height="175px"/>
   </a>
 </div>
 
