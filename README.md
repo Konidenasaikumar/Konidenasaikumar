@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sai Kumar Konidena</h1><p align="left">
 <h3 align="center">A passionate Data Science enthusiastic from India, currently living in Germany.</h3>
 
-<h3 📫 How to reach me **saikumar.konidena@gmail.com** </h3>
+<h2 📫 How to reach me **saikumar.konidena@gmail.com** </h2>
 
 ## Introduction
 
