@@ -3,7 +3,37 @@
 
 - 📫 How to reach me **Saikumar.konidena@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Technical Skills:</h3>
+<h2>Programming & Data Visualization:</h2>
+<ul>
+  <li>Python (Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly, NLTK, SciPy, PyTorch)</li>
+  <li>Excel</li>
+  <li>Tableau</li>
+</ul>
+
+<h2>Statistical Techniques & ML:</h2>
+<ul>
+  <li>Hypothesis Testing</li>
+  <li>A/B Testing</li>
+  <li>ANOVA</li>
+  <li>Chi-square Testing</li>
+  <li>Statistical Modeling (Linear Regression, Polynomial Regression, Ridge and Lasso Regression, Logistic Regression, Time Series)</li>
+  <li>Machine Learning (KNN, Random Forest, XGBoost, Support Vector Machines, Naive Bayes, Principal Component Analysis, Clustering, Recommendation Systems)</li>
+  <li>Deep Learning (Keras, TensorFlow, Neural Network-CNN, RNN, LSTM)</li>
+  <li>Natural Language Processing</li>
+</ul>
+
+<h2>Other Technical Skills:</h2>
+<ul>
+  <li>SQL</li>
+  <li>Docker</li>
+  <li>Web Scraping</li>
+  <li>OOP (Object-oriented Programming)</li>
+  <li>API Call</li>
+  <li>Git</li>
+  <li>GitHub</li>
+</ul>
+
 <p align="left">
 </p>
 
