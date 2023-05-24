@@ -1,8 +1,11 @@
-<a href="#"><img width="50%" height="auto" src="https://static.vecteezy.com/system/resources/previews/022/254/572/non_2x/robot-working-on-laptop-computer-artificial-intelligence-concept-3d-rendering-generative-ai-free-photo.jpg" height="175px"/></a>
+<a href="#"><img width="50%" height="auto" src="https://assets.weforum.org/article/image/_NoEqqFtdV3gdZzIRkljVa-wlJFoAyz6fQ4nIMBwulE.jpg" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Sai Kumar Konidena</h1>
 <h3 align="center">A passionate Data Science enthusiastic from India, currently living in Germany.</h3>
+## Connect with me:
+<p align="left">
 
-📫 How to reach me **saikumar.konidena@gmail.com**
+<a href = "https://www.linkedin.com/in/sai-kumar-konidena-engineer/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
 ## Introduction
 
 I have a keen interest in Machine learning, data analysis with professional certification in data science. With a master's degree in Scientific Instrumentation, I have developed a strong foundation and intuitive understanding of machine learning and statistical analysis. Through my past experiences and several projects, I have acquired excellent communication skills and a deep comprehension of scientific thinking, which has contributed to my proficiency in strategic decision making.
