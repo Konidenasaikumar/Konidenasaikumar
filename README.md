@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sai Kumar Konidena</h1>
 <h3 align="center">A passionate Data Science enthusiastic from India, currently living in Germany.</h3>
 
-* 📫 How to reach me **Saikumar.konidena@gmail.com**
+**** 📫 How to reach me **Saikumar.konidena@gmail.com**
 <h1 align="left">Skills</h1>
 <h2>Programming & Data Visualization:</h2>
 <ul>
   <li>Python (Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly, NLTK, SciPy, PyTorch)</li>
   <li>Excel</li>
   <li>Tableau</li>
+  <li>Streamlit<li>
 </ul>
 
 <h2>Statistical Techniques & ML:</h2>
