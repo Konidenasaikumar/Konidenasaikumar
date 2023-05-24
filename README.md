@@ -6,7 +6,12 @@
 
 - 📫 How to reach me **Saikumar.konidena@gmail.com**
 - <a href = "https://www.linkedin.com/in/sai-teja-potu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+- 📫 How to reach me **Saikumar.konidena@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href = "https://www.linkedin.com/in/sai-kumar-konidena-engineer/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</p>
 ## Introduction
 
 I have a keen interest in Machine learning, data analysis with professional certification in data science. With a master's degree in Scientific Instrumentation, I have developed a strong foundation and intuitive understanding of machine learning and statistical analysis. Through my past experiences and several projects, I have acquired excellent communication skills and a deep comprehension of scientific thinking, which has contributed to my proficiency in strategic decision making.
