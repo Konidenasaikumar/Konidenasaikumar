@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sai Kumar Konidena</h1><p align="left">
 <h3 align="center">A passionate Data Science enthusiastic from India, currently living in Germany.</h3>
 
-- 📫 How to reach me **Saikumar.konidena@gmail.com**
+- 📫 How to reach me **saikumar.konidena@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,6 +40,7 @@ I have a keen interest in Machine learning, data analysis with professional cert
 <h2>Other Technical Skills:</h2>
 <ul>
   <li>SQL</li>
+  <li>MongoDB</li>
   <li>Docker</li>
   <li>Web Scraping</li>
   <li>OOP (Object-oriented Programming)</li>
