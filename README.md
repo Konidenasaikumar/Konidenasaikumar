@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/93/b0/9d/93b09d1cc036838ca7111bb468f48bba.jpg" height="175px"/></a>
 
 
 <h1 align="center">Hi 👋, I'm Sai Kumar Konidena</h1><p align="left">
