@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="[https://i.imgur.com/iXuL1HG.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fboy-laptop&psig=AOvVaw3OB3bgszWUhe05qxzAnq-E&ust=1691496924033000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj6m5zDyoADFQAAAAAdAAAAABAF)" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://www.freepik.com/free-vector/boy-using-laptop-cartoon-character-sticker_16851299.htm#query=boy%20laptop&position=6&from_view=keyword&track=ais" height="175px"/></a>
 
 
 <h1 align="center">Hi 👋, I'm Sai Kumar Konidena</h1><p align="left">
