@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.freepik.com/free-vector/boy-using-laptop-cartoon-character-sticker_16851299.htm#query=boy%20laptop&position=6&from_view=keyword&track=ais" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="" height="175px"/></a>
 
 
 <h1 align="center">Hi 👋, I'm Sai Kumar Konidena</h1><p align="left">
