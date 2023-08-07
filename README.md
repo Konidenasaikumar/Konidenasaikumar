@@ -1,4 +1,22 @@
-<a href="#"><img width="30%" height="auto" src="https://img.freepik.com/premium-vector/man-working-with-laptop-flat-design-style_180868-1756.jpg" height="50px"/></a>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+</style>
+</head>
+<body>
+  <div class="center">
+    <a href="#"><img width="30%" height="auto" src="https://img.freepik.com/premium-vector/man-working-with-laptop-flat-design-style_180868-1756.jpg" height="50px"/></a>
+  </div>
+</body>
+</html>
+
 
 
 
