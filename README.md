@@ -14,7 +14,7 @@
 
 ## Introduction
 
-I have a keen interest in Machine learning, data analysis with professional certification in data science. With a master's degree in Scientific Instrumentation, I have developed a strong foundation and intuitive understanding of machine learning and statistical analysis. Through my past experiences and several projects, I have acquired excellent communication skills and a deep comprehension of scientific thinking, which has contributed to my proficiency in strategic decision making.
+I possess a strong passion for Machine Learning and Data Analysis, complemented by a professional certification in Data Science. With a Master's degree in Scientific Instrumentation, I have built a solid foundation and an innate understanding of machine learning techniques and statistical analysis. Along my journey, I have engaged in numerous projects and experiences that have not only honed my technical skills but also enhanced my ability to effectively communicate complex concepts. This, coupled with my scientific background, has equipped me with the expertise to make well-informed strategic decisions.
 <br />
 <br />
 ## Skills
