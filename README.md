@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://img.freepik.com/premium-vector/man-working-laptop-with-coffee-cartoon-people-technology-icon-concept-isolated-flat-cartoon-style_138676-2202.jpg?w=740" height="150px"/></a>
 
 <h1 align="center">Hi 👋, I'm Sai Kumar Konidena</h1><p align="left">
 <h3 align="center">A passionate Data Science enthusiastic from India, currently living in Germany.</h3>
