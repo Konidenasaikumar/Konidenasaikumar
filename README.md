@@ -1,5 +1,5 @@
 
-<a href="#"><img width="25%" height="auto" src="https://img.freepik.com/free-vector/telecommuting-concept_23-2148488792.jpg?w=740&t=st=1692307806~exp=1692308406~hmac=9c72a9c795b3714b6ee09bf273a10f4edc2208d4503d5972200ffad1a032d593" height="30px"/></a>
+<a href="#"><img width="50%" height="auto" src="https://img.freepik.com/free-vector/teamwork-icons-with-people-puzzle-handshake_107791-9507.jpg?w=1380&t=st=1692307922~exp=1692308522~hmac=5e58c34597209e300a73ddc0e18fea8ddac4bbc6e3435a5cf2adbda232d997bb" height="80px"/></a>
 
 <h1 align="center">Hi 👋, I'm Sai Kumar Konidena</h1><p align="left">
 <h3 align="center">A passionate Data Science enthusiastic from India, currently living in Germany.</h3>
